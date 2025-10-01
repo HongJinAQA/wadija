@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602247720557",
+    "project_id": "wadija-4b4f2",
+    "storage_bucket": "wadija-4b4f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602247720557:android:b008ef82d8c47a77679964",
+        "android_client_info": {
+          "package_name": "com.example.wadija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdU4dsYYaSQ0l0IsQnDAlH83-Xw8OSv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
